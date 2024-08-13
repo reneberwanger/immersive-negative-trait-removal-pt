@@ -1,0 +1,5 @@
+﻿l_spanish:
+  # Eventos de Autoajuda
+  INTR_clear_mind.0001.title:0 "Uma Mente Clara"
+  INTR_clear_mind.0001.desc.fallback:0 "Minha vida tem sido muito relaxante recentemente depois que me vi abençoado com alguns anos livres de estresse.\n\nCom a ausência de qualquer preocupação, os fardos da governança momentaneamente se aliviam, permitindo alguma introspecção e crescimento pessoal."
+  INTR_clear_mind.0001.fallback:0 "Estou me sentindo ótimo!"
